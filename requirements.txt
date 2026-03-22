@@ -4,3 +4,4 @@ numpy
 scikit-learn
 nltk
 opencv-python-headless
+speechrecognition
